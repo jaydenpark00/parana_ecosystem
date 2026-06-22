@@ -271,51 +271,7 @@ outputs/v5_2/ (완료!)
 
 ---
 
-## 🐛 트러블슈팅
-
-### "ModuleNotFoundError: No module named 'koreanize_matplotlib'"
-```bash
-pip install koreanize-matplotlib
-```
-
-### "행렬 형태 오류"
-```python
-# FW_001.csv가 40×36인지 확인
-# 전치 후 36×40이 되어야 함
-```
-
-### 느린 실행 속도
-```python
-# 1. theta 값 단순화
-# 2. random-repeats 줄이기
-# python run_analysis.py --random-repeats 50
-```
-
----
-
-## 📞 FAQ
-
-**Q: outputs 폴더는 어디?**
-- A: `python run_analysis.py` 실행 시 자동 생성됨 (outputs/v5_2/)
-
-**Q: 데이터를 변경하려면?**
-- A: data/FW_001.csv를 새 40×36 행렬로 교체
-
-**Q: 알고리즘을 추가하려면?**
-- A: src/wtecm.py의 `make_algorithm_rankings()` 함수 수정
-
-**Q: 시각화만 다시 하려면?**
-- A: src/visualization.py를 직접 실행하거나 커스터마이징
-
----
-
 ## 📜 라이선스
 
 Academic Research Use Only
-
----
-
-**작성**: 2026-06-22  
-**상태**: ✅ 프로덕션 준비 완료  
-**크기**: ~7MB (매우 가벼움!)
 
