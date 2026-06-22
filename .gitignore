@@ -43,6 +43,7 @@ env/
 
 # Results (regenerate with run_analysis.py)
 outputs/v5_2/*
+!outputs/v5_2/*.png
 !outputs/v5_2/.gitkeep
 
 # OS
