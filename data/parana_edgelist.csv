@@ -1,0 +1,186 @@
+source,target,weight
+Acestrorhyncus lacustris,Astyanax altiparanae,0.2
+Acestrorhyncus lacustris,Auchenipterus nuchalis,0.1
+Acestrorhyncus lacustris,Cyphocharax modestus,0.1
+Acestrorhyncus lacustris,Iheringichthys labrosus,0.2
+Acestrorhyncus lacustris,Other detritus feeders,0.1
+Acestrorhyncus lacustris,Other insectivores,0.1
+Acestrorhyncus lacustris,Other omnivores,0.1
+Acestrorhyncus lacustris,Schizodon borellii,0.1
+Astyanax altiparanae,Aquatic macrophytes,0.2
+Astyanax altiparanae,Detritus,0.1
+Astyanax altiparanae,Insects,0.3
+Astyanax altiparanae,Leporinus obtusidens,0.1
+Astyanax altiparanae,Other omnivores,0.1
+Astyanax altiparanae,Phytoplankton,0.1
+Astyanax altiparanae,Zooplankton,0.1
+Auchenipterus nuchalis,Insects,0.7
+Auchenipterus nuchalis,Other benthos feeders,0.1
+Auchenipterus nuchalis,Zooplankton,0.2
+Benthos,Detritus,0.5
+Benthos,Periphyton,0.5
+Brycon orbignyanus,Aquatic macrophytes,0.3
+Brycon orbignyanus,Astyanax altiparanae,0.1
+Brycon orbignyanus,Insects,0.55
+Brycon orbignyanus,Other insectivores,0.05
+Cyphocharax modestus,Benthos,0.1
+Cyphocharax modestus,Detritus,0.55
+Cyphocharax modestus,Phytoplankton,0.35
+Hemisorubin platyrhynchos,Astyanax altiparanae,0.15
+Hemisorubin platyrhynchos,Brycon orbignyanus,0.1
+Hemisorubin platyrhynchos,Other detritus feeders,0.1
+Hemisorubin platyrhynchos,Other insectivores,0.1
+Hemisorubin platyrhynchos,Pimelodus maculatus,0.25
+Hemisorubin platyrhynchos,Serrasalmus marginatus,0.1
+Hemisorubin platyrhynchos,Steindachnerina insculpta,0.2
+Hoplias malabaricus,Acestrorhyncus lacustris,0.1
+Hoplias malabaricus,Hoplias malabaricus,0.2
+Hoplias malabaricus,Leporinus obtusidens,0.2
+Hoplias malabaricus,Other insectivores,0.1
+Hoplias malabaricus,Prochilodus lineatus,0.2
+Hoplias malabaricus,Pterodoras granulosus,0.2
+Hoplosternum littorale,Aquatic macrophytes,0.1
+Hoplosternum littorale,Benthos,0.2
+Hoplosternum littorale,Detritus,0.3
+Hoplosternum littorale,Insects,0.2
+Hoplosternum littorale,Zooplankton,0.2
+Hypophthalmus edentatus,Phytoplankton,0.3
+Hypophthalmus edentatus,Zooplankton,0.7
+Hypostomus sp,Detritus,0.8
+Hypostomus sp,Phytoplankton,0.2
+Iheringichthys labrosus,Benthos,0.35
+Iheringichthys labrosus,Detritus,0.25
+Iheringichthys labrosus,Insects,0.2
+Iheringichthys labrosus,Periphyton,0.1
+Iheringichthys labrosus,Zooplankton,0.1
+Insects,Aquatic macrophytes,0.3
+Insects,Detritus,0.7
+Leporinus friderici,Aquatic macrophytes,0.3
+Leporinus friderici,Astyanax altiparanae,0.1
+Leporinus friderici,Benthos,0.05
+Leporinus friderici,Detritus,0.2
+Leporinus friderici,Insects,0.2
+Leporinus friderici,Other omnivores,0.1
+Leporinus friderici,Phytoplankton,0.05
+Leporinus obtusidens,Aquatic macrophytes,0.3
+Leporinus obtusidens,Astyanax altiparanae,0.1
+Leporinus obtusidens,Benthos,0.05
+Leporinus obtusidens,Detritus,0.2
+Leporinus obtusidens,Insects,0.2
+Leporinus obtusidens,Other omnivores,0.1
+Leporinus obtusidens,Phytoplankton,0.05
+Loricariichthys platymetopon,Benthos,0.1
+Loricariichthys platymetopon,Detritus,0.6
+Loricariichthys platymetopon,Insects,0.2
+Loricariichthys platymetopon,Phytoplankton,0.1
+Other benthos feeders,Aquatic macrophytes,0.1
+Other benthos feeders,Benthos,0.35
+Other benthos feeders,Detritus,0.3
+Other benthos feeders,Insects,0.1
+Other benthos feeders,Phytoplankton,0.05
+Other benthos feeders,Zooplankton,0.1
+Other detritus feeders,Benthos,0.1
+Other detritus feeders,Detritus,0.7
+Other detritus feeders,Insects,0.1
+Other detritus feeders,Phytoplankton,0.1
+Other insectivores,Aquatic macrophytes,0.2
+Other insectivores,Astyanax altiparanae,0.1
+Other insectivores,Insects,0.6
+Other insectivores,Zooplankton,0.1
+Other omnivores,Aquatic macrophytes,0.15
+Other omnivores,Benthos,0.15
+Other omnivores,Detritus,0.1
+Other omnivores,Insects,0.3
+Other omnivores,Periphyton,0.1
+Other omnivores,Phytoplankton,0.1
+Other omnivores,Zooplankton,0.1
+Other piscivores,Astyanax altiparanae,0.2
+Other piscivores,Hypophthalmus edentatus,0.1
+Other piscivores,Other omnivores,0.2
+Other piscivores,Other piscivores,0.1
+Other piscivores,Prochilodus lineatus,0.2
+Other piscivores,Pseudoplatystoma corruscans,0.05
+Other piscivores,Salminus brasiliensis,0.05
+Other piscivores,Schizodon borellii,0.1
+Parauchenipterus galeatus,Aquatic macrophytes,0.4
+Parauchenipterus galeatus,Insects,0.6
+Pimelodus maculatus,Aquatic macrophytes,0.05
+Pimelodus maculatus,Astyanax altiparanae,0.1
+Pimelodus maculatus,Benthos,0.25
+Pimelodus maculatus,Detritus,0.1
+Pimelodus maculatus,Insects,0.1
+Pimelodus maculatus,Leporinus friderici,0.05
+Pimelodus maculatus,Other insectivores,0.05
+Pimelodus maculatus,Phytoplankton,0.05
+Pimelodus maculatus,Serrasalmus marginatus,0.05
+Pimelodus maculatus,Trachydoras paraguayensis,0.1
+Pimelodus maculatus,Zooplankton,0.1
+Plagioscion squamosissimus,Astyanax altiparanae,0.15
+Plagioscion squamosissimus,Leporinus friderici,0.1
+Plagioscion squamosissimus,Other insectivores,0.1
+Plagioscion squamosissimus,Parauchenipterus galeatus,0.15
+Plagioscion squamosissimus,Prochilodus lineatus,0.3
+Plagioscion squamosissimus,Serrasalmus marginatus,0.1
+Plagioscion squamosissimus,Serrasalmus spilopleura,0.1
+Prochilodus lineatus,Benthos,0.15
+Prochilodus lineatus,Detritus,0.7
+Prochilodus lineatus,Phytoplankton,0.15
+Pseudoplatystoma corruscans,Astyanax altiparanae,0.2
+Pseudoplatystoma corruscans,Auchenipterus nuchalis,0.1
+Pseudoplatystoma corruscans,Hemisorubin platyrhynchos,0.1
+Pseudoplatystoma corruscans,Hoplosternum littorale,0.3
+Pseudoplatystoma corruscans,Leporinus obtusidens,0.1
+Pseudoplatystoma corruscans,Other piscivores,0.1
+Pseudoplatystoma corruscans,Serrasalmus marginatus,0.1
+Pterodoras granulosus,Aquatic macrophytes,0.5
+Pterodoras granulosus,Benthos,0.1
+Pterodoras granulosus,Detritus,0.1
+Pterodoras granulosus,Insects,0.1
+Pterodoras granulosus,Phytoplankton,0.1
+Pterodoras granulosus,Zooplankton,0.1
+Rhaphiodon vulpinus,Acestrorhyncus lacustris,0.1
+Rhaphiodon vulpinus,Astyanax altiparanae,0.2
+Rhaphiodon vulpinus,Brycon orbignyanus,0.1
+Rhaphiodon vulpinus,Other benthos feeders,0.1
+Rhaphiodon vulpinus,Parauchenipterus galeatus,0.2
+Rhaphiodon vulpinus,Prochilodus lineatus,0.2
+Rhaphiodon vulpinus,Rhaphiodon vulpinus,0.1
+Salminus brasiliensis,Astyanax altiparanae,0.1
+Salminus brasiliensis,Hoplias malabaricus,0.2
+Salminus brasiliensis,Hypostomus sp,0.2
+Salminus brasiliensis,Loricariichthys platymetopon,0.15
+Salminus brasiliensis,Other omnivores,0.1
+Salminus brasiliensis,Prochilodus lineatus,0.15
+Salminus brasiliensis,Schizodon altoparanae,0.1
+Schizodon altoparanae,Aquatic macrophytes,0.7
+Schizodon altoparanae,Phytoplankton,0.3
+Schizodon borellii,Aquatic macrophytes,0.7
+Schizodon borellii,Phytoplankton,0.3
+Serrasalmus marginatus,Astyanax altiparanae,0.1
+Serrasalmus marginatus,Hypophthalmus edentatus,0.1
+Serrasalmus marginatus,Other benthos feeders,0.1
+Serrasalmus marginatus,Other detritus feeders,0.1
+Serrasalmus marginatus,Other insectivores,0.1
+Serrasalmus marginatus,Other omnivores,0.05
+Serrasalmus marginatus,Plagioscion squamosissimus,0.1
+Serrasalmus marginatus,Prochilodus lineatus,0.1
+Serrasalmus marginatus,Pseudoplatystoma corruscans,0.05
+Serrasalmus marginatus,Pterodoras granulosus,0.1
+Serrasalmus marginatus,Serrasalmus marginatus,0.1
+Serrasalmus spilopleura,Astyanax altiparanae,0.1
+Serrasalmus spilopleura,Auchenipterus nuchalis,0.1
+Serrasalmus spilopleura,Hypophthalmus edentatus,0.1
+Serrasalmus spilopleura,Other benthos feeders,0.1
+Serrasalmus spilopleura,Other detritus feeders,0.1
+Serrasalmus spilopleura,Other omnivores,0.1
+Serrasalmus spilopleura,Plagioscion squamosissimus,0.2
+Serrasalmus spilopleura,Prochilodus lineatus,0.1
+Serrasalmus spilopleura,Pterodoras granulosus,0.1
+Steindachnerina insculpta,Benthos,0.1
+Steindachnerina insculpta,Detritus,0.55
+Steindachnerina insculpta,Phytoplankton,0.35
+Trachydoras paraguayensis,Detritus,0.55
+Trachydoras paraguayensis,Insects,0.15
+Trachydoras paraguayensis,Zooplankton,0.3
+Zooplankton,Detritus,0.5
+Zooplankton,Phytoplankton,0.5
