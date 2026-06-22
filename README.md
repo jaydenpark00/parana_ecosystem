@@ -159,6 +159,30 @@ CoreHD        → k-core 분해
 | **Spearman rho** | 참조와 상관계수 | 높을수록 ↑ |
 | **Top-5 Overlap** | 상위 5종 겹침 | 높을수록 ↑ |
 
+### 📊 Figure 1: 알고리즘 성능 비교
+
+![Algorithm Performance Heatmap](outputs/v5_2/fig1_instructional_algorithm_heatmap.png)
+
+5가지 알고리즘의 성능을 다양한 지표로 비교한 히트맵입니다. 각 알고리즘의 강점과 약점을 한눈에 볼 수 있습니다.
+
+### 📊 Figure 2: Spearman 상관계수 및 Top-K 겹침
+
+![Spearman Correlation and Top-K Overlap](outputs/v5_2/fig2_instructional_spearman_topk.png)
+
+각 알고리즘이 참조 순위(WTECM)와 얼마나 잘 일치하는지 보여줍니다. Spearman 상관계수와 Top-5 종 겹침 비율을 표시합니다.
+
+### 📊 Figure 3: 생존곡선, AUC, R50 분석
+
+![Survival Curve and Performance Metrics](outputs/v5_2/fig3_instructional_survival_aucscore_r50ratio_capture.png)
+
+Instructional 데이터셋에서 각 알고리즘의 생존곡선과 주요 성능 지표(AUC, R50)를 비교합니다.
+
+### 📊 Figure 4: 확장 분석 - Spearman 및 Top-K
+
+![Extended Analysis](outputs/v5_2/fig4_extended_spearman_topk.png)
+
+Extended 데이터셋에서의 각 알고리즘의 Spearman 상관계수와 Top-K 겹침 비율입니다.
+
 ---
 
 ## ✅ 파이프라인 흐름
